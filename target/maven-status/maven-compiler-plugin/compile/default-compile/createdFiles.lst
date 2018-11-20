@@ -1,0 +1,4 @@
+com\kyra\service\DemoService.class
+com\kyra\dao\domain\Demo.class
+com\kyra\dao\mapper\DemoMapper.class
+com\kyra\controller\demo\DemoController.class
